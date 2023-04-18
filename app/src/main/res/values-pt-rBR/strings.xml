@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orla Inteligente</string>
+    <string name="name">Nome</string>
+    <string name="remember">Lembrar</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="button">Saiba mais</string>
+    <string name="texto_two_view">Bem-vindo ao Orla Inteligente, o aplicativo que visa tornar as praias do Recife mais seguras e protegidas contra incidentes com tubarões! Utilizamos tecnologias inovadoras para monitorar a presença de tubarões na água e fornecer informações em tempo real aos banhistas e autoridades competentes.</string>
+    <string name="monitoramento">Monitoramento</string>
+    <string name="praia">Para qual praia você quer ir?</string>
+    <string name="situacao">Situação:</string>
+</resources>

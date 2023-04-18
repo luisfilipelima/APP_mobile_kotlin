@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">smart kant</string>
+    <string name="name">Name</string>
+    <string name="remember">Remember</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="button">know more</string>
+    <string name="texto_two_view">Welcome to Orla Inteligente, the application that aims to make Recife's beaches safer and more protected against shark incidents! We use innovative technologies to monitor the presence of sharks in the water and provide real-time information to bathers and competent authorities.</string>
+    <string name="monitoramento">Monitoring</string>
+    <string name="praia">Which beach do you want to go to?</string>
+    <string name="situacao">Situation:</string>
+</resources>
